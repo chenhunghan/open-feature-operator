@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.5.3](https://github.com/open-feature/open-feature-operator/compare/v0.5.2...v0.5.3) (2023-12-08)
+
+
+### 🐛 Bug Fixes
+
+* create index for pod annotation path for allowkubernetessync annotation instead of deployment ([#582](https://github.com/open-feature/open-feature-operator/issues/582)) ([a6fa04f](https://github.com/open-feature/open-feature-operator/commit/a6fa04f590ad4ad6779ce85f4fc167b59f1b17a7))
+
+
+### 🧹 Chore
+
+* **deps:** update dependency bitnami-labs/readme-generator-for-helm to v2.6.0 ([#525](https://github.com/open-feature/open-feature-operator/issues/525)) ([70fb5d9](https://github.com/open-feature/open-feature-operator/commit/70fb5d95497346dac9f83058105de4d828d75c96))
+
 ## [0.5.2](https://github.com/open-feature/open-feature-operator/compare/v0.5.1...v0.5.2) (2023-12-06)
 
 
